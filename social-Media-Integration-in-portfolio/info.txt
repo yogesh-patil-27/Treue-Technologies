@@ -1,0 +1,2 @@
+Technologies used - HTML,CSS,JavaScript
+It involves adding clickable icons or buttons to your portfollo that link to your social media profiles, such as linkedin, gitHub.
